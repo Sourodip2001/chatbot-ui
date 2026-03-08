@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: chatbot
-        image: sourodip290301/chatbot
+        image: sourodip290301/chatbot-new
         ports:
         - containerPort: 3000   # Use port 3000
 
